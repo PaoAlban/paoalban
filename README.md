@@ -1,9 +1,9 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="BANNER_URL_AQUI" alt="Banner Data Science" width="100%">
+  <img src="https://github.com/PaoAlban/paoalban/blob/main/bannergithub.png?raw=true" width="100%">
 </p>
 
-<h1 align="center">Hola, soy <span style="color:#0A66C2;">TuNombre</span> 👋</h1>
+<h1 align="center">Hola, soy Paola Albán <span style="color:#0A66C2;">TuNombre</span> 👋</h1>
 
 <p align="center">
   <strong>Data Science | Machine Learning | Business Intelligence</strong><br>
