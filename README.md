@@ -1,9 +1,10 @@
 <!-- Banner principal -->
+<h1 align="center">Hola, soy <span style="color:#0A66C2;">Paola Albán</span> 👋</h1>
 <p align="center">
   <img src="https://github.com/PaoAlban/paoalban/blob/main/bannergithub.png?raw=true" width="100%">
 </p>
 
-<h1 align="center">Hola, soy <span style="color:#0A66C2;">Paola Albán</span> 👋</h1>
+
 
 <p align="center">
   <strong>Data Science | Machine Learning | Business Intelligence</strong><br>
