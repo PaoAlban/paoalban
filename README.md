@@ -14,11 +14,10 @@
 ---
 
 ### 🧠 Sobre mí
-- 🎓 Data Scientist en formación (Máster en Data Science).  
+- 🎓 Data Scientist.  
 - 🤖 Apasionada por Machine Learning aplicado a problemas reales.  
 - 📊 Experiencia previa en análisis, gestión y optimización de procesos.  
-- 🚀 Reorientándome profesionalmente con enfoque en IA aplicada.  
-- 📚 Actualmente aprendiendo: Python avanzado, ML pipelines, MLOps.  
+  
 
 ---
 
